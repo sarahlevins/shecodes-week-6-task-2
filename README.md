@@ -7,14 +7,3 @@ Some starter code is provided to help you get started.
 Remember to test your code thoroughly against many different cases because we will try and break it ;)
 
 Remember to use git to store your code!
-
-
-Tasks:
-
-- calculate a check digit
-
-- validate a given check digit
-
-- accept a barcode and algorithm through user input
-
-- add error handling for if the user gives incorrect input
